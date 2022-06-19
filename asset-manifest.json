@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/alien-territory/static/css/main.5cc0ac66.css",
-    "main.js": "/alien-territory/static/js/main.de00cdad.js",
+    "main.css": "/alien-territory/static/css/main.c3114740.css",
+    "main.js": "/alien-territory/static/js/main.a1aa7890.js",
     "index.html": "/alien-territory/index.html",
-    "main.5cc0ac66.css.map": "/alien-territory/static/css/main.5cc0ac66.css.map",
-    "main.de00cdad.js.map": "/alien-territory/static/js/main.de00cdad.js.map"
+    "main.c3114740.css.map": "/alien-territory/static/css/main.c3114740.css.map",
+    "main.a1aa7890.js.map": "/alien-territory/static/js/main.a1aa7890.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cc0ac66.css",
-    "static/js/main.de00cdad.js"
+    "static/css/main.c3114740.css",
+    "static/js/main.a1aa7890.js"
   ]
 }
