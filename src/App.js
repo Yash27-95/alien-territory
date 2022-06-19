@@ -105,6 +105,8 @@ export default function App(){
         setLatestNewsOpenMenu(false)
         setHottestNewsMenu([])
     }
+
+    console.log(window.innerWidth)
     
     // console.log(hottestNews)
     // console.log(hottestNewsMenu)
